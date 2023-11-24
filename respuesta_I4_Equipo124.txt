@@ -11,3 +11,14 @@ adoptada?
 H- ¿Qué sucede si cada uno utiliza el push -f?
 I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
 en DESARROLLO ?
+
+A- Es de color amarillo.
+B- Es de color amarillo.
+C- Es de color amarillo.
+D- Quedo el favicon que eligio BETA
+E- Si, tuvo problemas el GAMMA porque el ALFA y el modificaron la misma linea y genero conflicto
+F- Problemas de conflictos con lineas de codigo
+G- Usar el editor de conflictos del visual y del github
+H- Se pushea igual sobreescribiendo el ultimo cambio que se haya hecho
+I- git checkout DESARROLLO
+   git merge TESTING
